@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "HiHiハイテンション！",
+  "base_artist": "夏色まつり",
+  "createdAt": "2026-02-25T11:00:41.066496Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HiHiハイテンション!",
+      "artist": "夏色まつり",
+      "has_synced": false,
+      "path": "select/01_HiHiハイテンション!_夏色まつり.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HiHiハイテンション！",
+      "artist": "夏色まつり",
+      "has_synced": true,
+      "path": "select/02_HiHiハイテンション!_夏色まつり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HiHiハイテンション!",
+      "artist": "夏色まつり",
+      "has_synced": false,
+      "path": "select/pl_01_HiHiハイテンション!_夏色まつり.txt"
+    }
+  ]
+}
